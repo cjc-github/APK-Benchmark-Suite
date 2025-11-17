@@ -51,11 +51,22 @@ https://f-droid.org/zh_Hans/packages/org.fdroid.basic/ <br/> 版本1.23.1 （102
 [5] de.marmaro.krt.ffupdater_179.apk
 https://f-droid.org/zh_Hans/packages/de.marmaro.krt.ffupdater/ <br/> 版本81.0.0 （179）
 
+[6] de.readeckapp_800.apk
+https://f-droid.org/zh_Hans/packages/de.readeckapp/ <br/> 版本0.8.0（800）
 ```
 
 <br>
 
 2、libdatastore_shared_counter.so文件，其静态导出函数没有找到对应的java函数声明。
 
+```bash
+[1] de.readeckapp_800.apk
+https://f-droid.org/zh_Hans/packages/de.readeckapp/ <br/> 版本0.8.0（800）
+
+```
+
+
+注意：de.readeckapp_800.apk文件包含类别1和2
 
 <br>
+

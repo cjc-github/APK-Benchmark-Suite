@@ -54,19 +54,34 @@ https://f-droid.org/zh_Hans/packages/de.marmaro.krt.ffupdater/ <br/> 版本81.0.
 [6] de.readeckapp_800.apk
 https://f-droid.org/zh_Hans/packages/de.readeckapp/ <br/> 版本0.8.0（800）
 ```
+[7] com.desarrollodroide.pagekeeper_51.apk
+
+[8] com.mhss.app.mybrain_15.apk
 
 <br>
 
 2、libdatastore_shared_counter.so文件，其静态导出函数没有找到对应的java函数声明。
+类似的apk如下
 
 ```bash
 [1] de.readeckapp_800.apk
 https://f-droid.org/zh_Hans/packages/de.readeckapp/ <br/> 版本0.8.0（800）
 
+[2] https://f-droid.org/zh_Hans/packages/com.sakethh.linkora/
+https://f-droid.org/zh_Hans/packages/com.sakethh.linkora/  <br/> 版本0.14.0（44）
+存在libdatastore_shared_counter.so文件和libsqlitejni.so文件
+
+[3] com.mhss.app.mybrain_15.apk
+
+[4] 
 ```
 
 
-注意：de.readeckapp_800.apk文件包含类别1和2
+注意：
+
+- de.readeckapp_800.apk 文件包含类别1和2
+- com.sakethh.linkora_44.apk 文件包含类别1和2
+- nodomain.aditya1875more.stashly_16.apk 文件包含类别1和2
 
 <br>
 

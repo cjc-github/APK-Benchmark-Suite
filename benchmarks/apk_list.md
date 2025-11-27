@@ -53,10 +53,12 @@ https://f-droid.org/zh_Hans/packages/de.marmaro.krt.ffupdater/ <br/> 版本81.0.
 
 [6] de.readeckapp_800.apk
 https://f-droid.org/zh_Hans/packages/de.readeckapp/ <br/> 版本0.8.0（800）
-```
+
 [7] com.desarrollodroide.pagekeeper_51.apk
 
 [8] com.mhss.app.mybrain_15.apk
+
+```
 
 <br>
 
@@ -74,8 +76,10 @@ https://f-droid.org/zh_Hans/packages/com.sakethh.linkora/  <br/> 版本0.14.0（
 [3] com.mhss.app.mybrain_15.apk
 
 [4] 
+
 ```
 
+<br>
 
 注意：
 
